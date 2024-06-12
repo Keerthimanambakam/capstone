@@ -1,0 +1,402 @@
+[
+    {
+        "u_serid": 9439,
+        "u_name": "Brandon Washington",
+        "u_pwd": "I+9OokgK%l",
+        "u_u_email": "sarahstokes@example.net",
+        "u_addr": "0462 Cathy Pike Suite 432\nTorresport, IL 08068",
+        "u_contact": "919-536-9745"
+    },
+    {
+        "u_serid": 8907,
+        "u_name": "Elizabeth Freeman",
+        "u_pwd": "_0L0Yn^1NL",
+        "u_u_email": "weeksaaron@example.org",
+        "u_addr": "169 Carlos Spur\nNorth Jillian, ME 35411",
+        "u_contact": "673.538.2549x478"
+    },
+    {
+        "u_serid": 5968,
+        "u_name": "Meredith Reynolds",
+        "u_pwd": "2TQ(3MqQ(P",
+        "u_u_email": "qcortez@example.org",
+        "u_addr": "3111 Erickson Village Suite 385\nJonesbury, PA 50276",
+        "u_contact": "+1-938-865-8643x67636"
+    },
+    {
+        "u_serid": 1550,
+        "u_name": "Dr. Nathaniel Green",
+        "u_pwd": "D$x3$pPHwy",
+        "u_u_email": "yhoffman@example.org",
+        "u_addr": "3126 David Ferry Apt. 042\nBaileyville, NH 48804",
+        "u_contact": "(922)805-4447x4979"
+    },
+    {
+        "u_serid": 1072,
+        "u_name": "Seth Park",
+        "u_pwd": ")wGE6kc8h9",
+        "u_u_email": "dustin00@example.org",
+        "u_addr": "3947 Kiara Isle Suite 712\nDennisville, AK 27737",
+        "u_contact": "273.419.7021"
+    },
+    {
+        "u_serid": 7019,
+        "u_name": "Todd Smith",
+        "u_pwd": "&fEslVaa0#",
+        "u_u_email": "michael29@example.net",
+        "u_addr": "4382 Trevino Port Apt. 295\nWalterfort, SD 52222",
+        "u_contact": "+1-269-545-9579x5530"
+    },
+    {
+        "u_serid": 1315,
+        "u_name": "Christine Brown",
+        "u_pwd": "(6t%HjDq*g",
+        "u_u_email": "jenniferbaker@example.com",
+        "u_addr": "USCGC Gonzales\nFPO AP 66729",
+        "u_contact": "200-219-4656"
+    },
+    {
+        "u_serid": 4348,
+        "u_name": "Kristie Solis",
+        "u_pwd": "&*0u6mEnqA",
+        "u_u_email": "karenjohnson@example.com",
+        "u_addr": "535 Rachel Rue Suite 345\nGuerrabury, SC 11373",
+        "u_contact": "001-497-921-4568x02193"
+    },
+    {
+        "u_serid": 6658,
+        "u_name": "Jacqueline Lucas",
+        "u_pwd": "Huq4BfLl*D",
+        "u_u_email": "uramirez@example.com",
+        "u_addr": "965 Ford Ramp\nJonesmouth, KS 58737",
+        "u_contact": "(488)486-7625x2933"
+    },
+    {
+        "u_serid": 8761,
+        "u_name": "Jonathan Nguyen",
+        "u_pwd": "EJ4J_kfmM*",
+        "u_u_email": "jerrybuchanan@example.com",
+        "u_addr": "814 Joshua Landing Apt. 126\nEvansbury, NH 06755",
+        "u_contact": "8662527341"
+    },
+    {
+        "u_serid": 3215,
+        "u_name": "Donald Long",
+        "u_pwd": "t)Bf8O&xv*",
+        "u_u_email": "timothynielsen@example.net",
+        "u_addr": "3220 Young Harbor Suite 631\nJonathontown, NC 93972",
+        "u_contact": "(587)656-3974"
+    },
+    {
+        "u_serid": 8899,
+        "u_name": "Maria Harper",
+        "u_pwd": "05VfZLew+d",
+        "u_u_email": "bondangela@example.org",
+        "u_addr": "77077 Taylor Skyway\nPort Leahmouth, ID 81790",
+        "u_contact": "923.766.8599"
+    },
+    {
+        "u_serid": 6295,
+        "u_name": "Tammy Smith",
+        "u_pwd": "(be98Ll!3N",
+        "u_u_email": "staceywade@example.com",
+        "u_addr": "348 Nathan Spring Apt. 651\nCynthiaburgh, ME 16391",
+        "u_contact": "906-272-5382x134"
+    },
+    {
+        "u_serid": 1624,
+        "u_name": "Joshua Le",
+        "u_pwd": "%4A_OHrQ(k",
+        "u_u_email": "matthew81@example.org",
+        "u_addr": "435 Kathryn Road\nJonesfort, SD 69997",
+        "u_contact": "(360)413-3562x7255"
+    },
+    {
+        "u_serid": 2734,
+        "u_name": "Robert Castaneda",
+        "u_pwd": "b4YIKPrh)g",
+        "u_u_email": "jason08@example.org",
+        "u_addr": "4667 Horn Dam Suite 863\nAlisonview, SC 81292",
+        "u_contact": "(481)240-4746"
+    },
+    {
+        "u_serid": 3446,
+        "u_name": "William Williams",
+        "u_pwd": "0d(R7_Yx0*",
+        "u_u_email": "tamarastevens@example.org",
+        "u_addr": "PSC 3865, Box 8471\nAPO AA 38529",
+        "u_contact": "852.752.9144"
+    },
+    {
+        "u_serid": 1779,
+        "u_name": "Jeffrey Walker",
+        "u_pwd": "Y4Glr!Z%^g",
+        "u_u_email": "zsmith@example.com",
+        "u_addr": "50576 Moody Row Apt. 487\nLake Jose, VA 25227",
+        "u_contact": "001-689-295-6229x926"
+    },
+    {
+        "u_serid": 6255,
+        "u_name": "Ronnie Burke",
+        "u_pwd": "^RNEZ(l4)0",
+        "u_u_email": "cclarke@example.com",
+        "u_addr": "2824 Mcdonald Circles\nVanessastad, NJ 26364",
+        "u_contact": "001-715-658-7205"
+    },
+    {
+        "u_serid": 9792,
+        "u_name": "Erika Brown",
+        "u_pwd": "$W4^5Wkc4a",
+        "u_u_email": "nsanchez@example.net",
+        "u_addr": "88689 Sergio Plains Suite 467\nKochtown, MD 27760",
+        "u_contact": "+1-423-872-5762x381"
+    },
+    {
+        "u_serid": 9184,
+        "u_name": "Jesus Page",
+        "u_pwd": ")@+*9KYh65",
+        "u_u_email": "morgantodd@example.net",
+        "u_addr": "91892 Pennington Street\nEast Steven, MD 14572",
+        "u_contact": "001-726-551-9928"
+    },
+    {
+        "u_serid": 1901,
+        "u_name": "John Ward",
+        "u_pwd": "@0LixFEeX6",
+        "u_u_email": "kevin07@example.org",
+        "u_addr": "876 Kevin Crest\nSouth Shawnport, ND 87560",
+        "u_contact": "001-269-658-0029x16830"
+    },
+    {
+        "u_serid": 9575,
+        "u_name": "Andrew Hartman",
+        "u_pwd": "$J5xRiYfNF",
+        "u_u_email": "dbrown@example.net",
+        "u_addr": "USCGC Tucker\nFPO AE 47853",
+        "u_contact": "(328)948-8120x832"
+    },
+    {
+        "u_serid": 4185,
+        "u_name": "Teresa Saunders",
+        "u_pwd": "w&pTR6Ztvk",
+        "u_u_email": "shanewashington@example.com",
+        "u_addr": "798 Norman Coves\nEast Tiffanyberg, RI 29762",
+        "u_contact": "543-261-8919"
+    },
+    {
+        "u_serid": 3070,
+        "u_name": "Kimberly Garcia",
+        "u_pwd": "^$JNO2U1is",
+        "u_u_email": "olopez@example.com",
+        "u_addr": "36683 Jacobs Turnpike\nMaryville, ID 21252",
+        "u_contact": "7647697495"
+    },
+    {
+        "u_serid": 7185,
+        "u_name": "Jonathan Evans",
+        "u_pwd": "l3Wv!MO7$X",
+        "u_u_email": "lindahebert@example.com",
+        "u_addr": "03289 King Tunnel\nSchwartzfort, SD 01664",
+        "u_contact": "001-371-268-3384x25128"
+    },
+    {
+        "u_serid": 9237,
+        "u_name": "Alexandra Williams",
+        "u_pwd": "5MPPJn)n(i",
+        "u_u_email": "sara99@example.org",
+        "u_addr": "68088 Patterson Court Suite 946\nShelleyland, MI 33639",
+        "u_contact": "(878)410-1742"
+    },
+    {
+        "u_serid": 6732,
+        "u_name": "Nicholas Anderson",
+        "u_pwd": "#0e)Puzzf^",
+        "u_u_email": "maria36@example.com",
+        "u_addr": "558 Billy Fork Apt. 989\nMillerborough, MI 14601",
+        "u_contact": "775.377.3024x252"
+    },
+    {
+        "u_serid": 7331,
+        "u_name": "Amber Carroll",
+        "u_pwd": "&r6FmtYv&!",
+        "u_u_email": "dereksmith@example.net",
+        "u_addr": "70059 Boyd Cliffs\nSouth Tyler, TN 59341",
+        "u_contact": "317.731.6768"
+    },
+    {
+        "u_serid": 8433,
+        "u_name": "Matthew Conner",
+        "u_pwd": "(3NWrV4Vbc",
+        "u_u_email": "ymitchell@example.net",
+        "u_addr": "2505 Matthew Overpass Apt. 332\nNorth Teresafurt, RI 01854",
+        "u_contact": "(749)280-0930x7025"
+    },
+    {
+        "u_serid": 8999,
+        "u_name": "Paul Rodriguez",
+        "u_pwd": "*6NlI2RvjT",
+        "u_u_email": "williamgross@example.org",
+        "u_addr": "060 Martin Light\nNorth Tracybury, IN 23520",
+        "u_contact": "001-671-246-6963x279"
+    },
+    {
+        "u_serid": 7560,
+        "u_name": "Jason Smith",
+        "u_pwd": "9%aAWjJB#0",
+        "u_u_email": "sharonlee@example.net",
+        "u_addr": "PSC 8852, Box 6989\nAPO AE 06338",
+        "u_contact": "8106348753"
+    },
+    {
+        "u_serid": 2626,
+        "u_name": "Evelyn White",
+        "u_pwd": "$loEy6qE7d",
+        "u_u_email": "lrodriguez@example.net",
+        "u_addr": "5625 Martinez Overpass Apt. 228\nNorth Michael, MA 25386",
+        "u_contact": "5937441806"
+    },
+    {
+        "u_serid": 3614,
+        "u_name": "Harold Hale",
+        "u_pwd": "g3_vTKHB#d",
+        "u_u_email": "karenrice@example.com",
+        "u_addr": "0990 Rivera Light Apt. 171\nJohnmouth, DC 37443",
+        "u_contact": "(949)824-2300"
+    },
+    {
+        "u_serid": 2319,
+        "u_name": "Paul Collins",
+        "u_pwd": ")22yPOGu^g",
+        "u_u_email": "allen31@example.com",
+        "u_addr": "7418 Julia Falls\nDorothyshire, AS 44679",
+        "u_contact": "447-319-6240"
+    },
+    {
+        "u_serid": 9774,
+        "u_name": "Kimberly Benson",
+        "u_pwd": "#$wqIxkv9z",
+        "u_u_email": "henryrebecca@example.com",
+        "u_addr": "050 Burgess Expressway\nLoriborough, NJ 89453",
+        "u_contact": "001-727-915-1794x54771"
+    },
+    {
+        "u_serid": 8125,
+        "u_name": "Bryan Williams",
+        "u_pwd": "3$pJ2zMt%x",
+        "u_u_email": "sarahbrown@example.org",
+        "u_addr": "012 Michael Shoals Suite 873\nClarencetown, MN 01505",
+        "u_contact": "(379)545-9246x60043"
+    },
+    {
+        "u_serid": 4548,
+        "u_name": "Ashley Johnson",
+        "u_pwd": "!ZoLhfMa_4",
+        "u_u_email": "dwarren@example.net",
+        "u_addr": "4485 Young Terrace\nPort Michelleville, SD 61768",
+        "u_contact": "001-718-922-6705x0383"
+    },
+    {
+        "u_serid": 3648,
+        "u_name": "Robert Lin",
+        "u_pwd": "P9ArQoo+#D",
+        "u_u_email": "deanmaria@example.com",
+        "u_addr": "6082 Stephanie Isle\nPhillipfort, AL 31929",
+        "u_contact": "804-719-4373x4155"
+    },
+    {
+        "u_serid": 5199,
+        "u_name": "Diane Thompson",
+        "u_pwd": "5vDxVEhe)7",
+        "u_u_email": "derekstevenson@example.net",
+        "u_addr": "646 Mikayla Drives Apt. 254\nSmithfort, IL 84967",
+        "u_contact": "800.747.0039"
+    },
+    {
+        "u_serid": 5905,
+        "u_name": "Jeffery Davis",
+        "u_pwd": "K$8ObDQ$va",
+        "u_u_email": "anthony50@example.net",
+        "u_addr": "323 Robert Freeway Suite 338\nReynoldsview, TN 83006",
+        "u_contact": "997.331.4338x69854"
+    },
+    {
+        "u_serid": 7975,
+        "u_name": "Stephanie Wade",
+        "u_pwd": "R*+1Cpx)uE",
+        "u_u_email": "stanleyjessica@example.org",
+        "u_addr": "01829 Victoria Ports Apt. 435\nRobertstad, MD 73455",
+        "u_contact": "551.589.8196x20276"
+    },
+    {
+        "u_serid": 6200,
+        "u_name": "Cole Frank",
+        "u_pwd": "p!bp5gNp9d",
+        "u_u_email": "lisadecker@example.com",
+        "u_addr": "84184 Michael Village Apt. 272\nGordonview, MD 43261",
+        "u_contact": "8993199300"
+    },
+    {
+        "u_serid": 4401,
+        "u_name": "Lisa Wagner",
+        "u_pwd": "1hZtF_sG@S",
+        "u_u_email": "denise14@example.net",
+        "u_addr": "0115 Christina Port Apt. 913\nYoungfurt, IL 13306",
+        "u_contact": "+1-269-710-2128x402"
+    },
+    {
+        "u_serid": 6780,
+        "u_name": "Joshua Anderson",
+        "u_pwd": "48DH9eCe)v",
+        "u_u_email": "laura54@example.com",
+        "u_addr": "100 Campbell Ridges\nSouth Patriciabury, FM 86773",
+        "u_contact": "(312)712-0432"
+    },
+    {
+        "u_serid": 6322,
+        "u_name": "Jessica Watson",
+        "u_pwd": "ENs2Hbfr@&",
+        "u_u_email": "omartin@example.org",
+        "u_addr": "20675 Young Port Apt. 664\nPort Angela, NJ 39661",
+        "u_contact": "001-282-602-2435x3701"
+    },
+    {
+        "u_serid": 1238,
+        "u_name": "Mrs. Brittany Holt MD",
+        "u_pwd": "hPfHesUq@0",
+        "u_u_email": "mendezrenee@example.org",
+        "u_addr": "074 Browning Lights\nRichardport, MO 52289",
+        "u_contact": "518-330-3113"
+    },
+    {
+        "u_serid": 6599,
+        "u_name": "Thomas Long",
+        "u_pwd": "9ZuqzQv0!X",
+        "u_u_email": "yorkchristopher@example.com",
+        "u_addr": "0781 Perez Stream\nAllenton, AR 26884",
+        "u_contact": "+1-879-521-7028x14697"
+    },
+    {
+        "u_serid": 6861,
+        "u_name": "Melissa Hoover",
+        "u_pwd": "PzBgdg2p&4",
+        "u_u_email": "hannahrodriguez@example.net",
+        "u_addr": "618 Melissa Wall Suite 492\nCuevasview, MN 50034",
+        "u_contact": "260.366.6361"
+    },
+    {
+        "u_serid": 4152,
+        "u_name": "Lori Lindsey",
+        "u_pwd": "HQ%0IRkk^&",
+        "u_u_email": "donaldaguilar@example.com",
+        "u_addr": "048 Amber Dam\nSouth Anthonyton, ND 64192",
+        "u_contact": "713-388-1772"
+    },
+    {
+        "u_serid": 5140,
+        "u_name": "Jasmine Maxwell",
+        "u_pwd": "^mU%1db8(7",
+        "u_u_email": "hernandezkevin@example.org",
+        "u_addr": "5597 Arias Manor Apt. 215\nNorth Elizabethside, PR 16934",
+        "u_contact": "001-784-694-5694"
+    }
+]
