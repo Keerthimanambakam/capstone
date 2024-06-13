@@ -180,6 +180,7 @@ const buyNow = async (req, res) => {
         res.status(500).json({ message: "Error" });
     }
 };
+/*
 // Function to insert products from JSON file
 const insertProductsFromJSON = async (filePath) => {
     try {
@@ -236,13 +237,7 @@ const productJsonFilePath = 'D:/capstone/code/products.json';
 const userJsonFilePath = 'D:/capstone/code/users.json';
 insertProductsFromJSON(productJsonFilePath);
 insertUsersFromJSON(userJsonFilePath)
-
-
-
-module.exports = {
-    buyNow,
-};
-
+'''*/
 
 module.exports = {
     showAllProducts,

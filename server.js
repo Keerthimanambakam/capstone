@@ -4,7 +4,7 @@ const mongoose = require('mongoose')
 const bodyparser = require('body-parser')
 const cors = require('cors')
 //import routes
-const productRoutes = require('./routes/Productroutes')
+const productroutes = require('./routes/productRoutes');
 //import url
 let url = require('./url')
 //create rest object
@@ -16,7 +16,7 @@ app.use(bodyparser.urlencoded({ extended: false }))
 //enable CORS -> Cross Origine Resource Sharing -> communication among variousports
 app.use(cors())
 //use routes
-app.use("/", productRoutes)
+app.use("/", productroutes)
 
 //connect to mongodb
 mongoose.connect(url,{ dbname: "capstone"}).then(() => {
