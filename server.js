@@ -4,7 +4,7 @@ const mongoose = require('mongoose')
 const bodyparser = require('body-parser')
 const cors = require('cors')
 //import routes
-const productroutes = require('./routes/productRoutes');
+const productroutes = require('./routes/Productroutes');
 //import url
 let url = require('./url')
 //create rest object
