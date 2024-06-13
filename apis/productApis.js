@@ -1,6 +1,7 @@
 const Product = require('../model/Product');
 const User = require('../model/User');
 const Cart = require('../model/Cart');
+const fs = require('fs');
 
 const showAllProducts = async (req, res) => {
     try {
@@ -179,6 +180,64 @@ const buyNow = async (req, res) => {
         res.status(500).json({ message: "Error" });
     }
 };
+// Function to insert products from JSON file
+const insertProductsFromJSON = async (filePath) => {
+    try {
+        const rawData = fs.readFileSync(filePath);
+        const productsData = JSON.parse(rawData);
+
+        for (const productData of productsData) {
+            const product = new Product({
+                p_id: productData.p_id,
+                p_name: productData.p_name,
+                p_cost: productData.p_cost,
+                p_cat: productData.p_cat,
+                p_desc: productData.p_desc,
+                p_img: productData.p_img
+            });
+
+            await product.save();
+            console.log('Product inserted:', product.p_name);
+        }
+
+        console.log('All products inserted successfully!');
+    } catch (error) {
+        console.error('Error inserting products:', error);
+    }
+};
+
+// Function to insert users from JSON file
+const insertUsersFromJSON = async (filePath) => {
+    try {
+        const rawData = fs.readFileSync(filePath);
+        const usersData = JSON.parse(rawData);
+
+        for (const userData of usersData) {
+            const user = new User({
+                u_serid: userData.u_serid,
+                u_name: userData.u_name,
+                u_pwd: userData.u_pwd,
+                u_u_email: userData.u_u_email,
+                u_addr: userData.u_addr,
+                u_contact: userData.u_contact
+            });
+
+            await user.save();
+            console.log('User inserted:', user.u_name);
+        }
+
+        console.log('All users inserted successfully!');
+    } catch (error) {
+        console.error('Error inserting users:', error);
+    }
+};
+
+const productJsonFilePath = 'D:/capstone/code/products.json';
+const userJsonFilePath = 'D:/capstone/code/users.json';
+insertProductsFromJSON(productJsonFilePath);
+insertUsersFromJSON(userJsonFilePath)
+
+
 
 module.exports = {
     buyNow,

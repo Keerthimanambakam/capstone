@@ -3,7 +3,7 @@ const express = require('express')
 //create router instance
 const router = express.Router()
 //import productApi
-const productApi = require("../apis/productapis");
+const productApi = require("../apis/productApis");
 //fetch all records
 router.get("/fetch", productApi.showAllProducts);
 router.get("/fetchUser", productApi.showAllUsers);
