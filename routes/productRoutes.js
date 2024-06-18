@@ -12,10 +12,14 @@ router.get("/fetchcart", productApi.showcart);
 router.post("/insertUser", productApi.createUser);
 router.post("/login", productApi.login);
 //update a record
-router.post("/insertProduct", productApi.addToCart);
+router.post("/inserttocart", productApi.addToCart);
 //delete a record
-router.put("/deleteProduct", productApi.reduceFromCart);
+router.put("/deletefromcart", productApi.reduceFromCart);
 router.post("/buyProduct", productApi.buyNow);
+//update products 
+router.post("/insertproduct",productApi.addProduct);
+router.delete("/deleteproduct",productApi.deleteProduct);
+router.delete("/deleteuser",productApi.deleteUser);
 
 
 //export router

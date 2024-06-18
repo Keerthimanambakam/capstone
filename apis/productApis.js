@@ -13,6 +13,57 @@ const showAllProducts = async (req, res) => {
         res.status(500).json({ message: 'Error retrieving products' });
     }
 };
+const addProduct = async (req, res) => {
+    const { p_id, p_name, p_cost, p_cat, p_desc, p_img } = req.body;
+    const product = new Product({
+        p_id,
+        p_name,
+        p_cost,
+        p_cat,
+        p_desc,
+        p_img
+    });
+    try {
+        const savedProduct = await product.save();
+        console.log('Product inserted:', savedProduct);
+        res.status(201).send(savedProduct);
+    } catch (error) {
+        console.error('Insert error:', error);
+        res.status(400).send({ message: 'Error inserting product' });
+    }
+};
+
+const deleteProduct = async (req, res) => {
+    const { p_id } = req.body;
+    try {
+        const deletedProduct = await Product.findOneAndDelete({ p_id });
+        if (deletedProduct) {
+            console.log('Product deleted:', deletedProduct);
+            res.status(200).send({ message: 'Product deleted successfully' });
+        } else {
+            res.status(404).send({ message: 'Product not found' });
+        }
+    } catch (error) {
+        console.error('Delete error:', error);
+        res.status(400).send({ message: 'Error deleting product' });
+    }
+};
+
+const deleteUser = async (req, res) => {
+    const { u_serid } = req.body;
+    try {
+        const deletedUser = await User.findOneAndDelete({ u_serid });
+        if (deletedUser) {
+            console.log('User deleted:', deletedUser);
+            res.status(200).send({ message: 'User deleted successfully' });
+        } else {
+            res.status(404).send({ message: 'User not found' });
+        }
+    } catch (error) {
+        console.error('Delete error:', error);
+        res.status(400).send({ message: 'Error deleting user' });
+    }
+};
 
 const login = async (req, res) => {
     console.log(req.body);
@@ -125,6 +176,7 @@ const createUser = async (req, res) => {
         res.status(400).send({ message: 'Error inserting user' });
     }
 };
+
 /*
 const buyNow = async (req,res) => {
     const { u_serid } = req.body;
@@ -247,5 +299,8 @@ module.exports = {
     login,
     reduceFromCart,
     buyNow,
-    showcart
+    showcart,
+    addProduct,
+    deleteUser,
+    deleteProduct
 };
